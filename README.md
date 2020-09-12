@@ -12,6 +12,9 @@ ATShop.io | Discord Bot to replace atshop.io orders.
 
 # Installation
 
+- Make sure to enable this to prevent people from inviting the bot and exploiting your orders.
+[](https://i.imgur.com/gbDDDKu.png)
+
 - Edit `tkn, atshopTkn, & atshopLink` variables first.
 
 ```
