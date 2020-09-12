@@ -1,5 +1,6 @@
 # atshop-replacements-discord-bot
 ATShop.io | Discord Bot to replace atshop.io orders.
+- Reason for leaking this: legacy didn't pay
 
 # Requirements
   - [NodeJS](https://nodejs.org/en/download/)
