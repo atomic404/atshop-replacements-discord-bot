@@ -5,6 +5,9 @@ ATShop.io | Discord Bot to replace order ids.
   - [NodeJS](https://nodejs.org/en/download/)
 
 # Installation
+
+- Edit `tkn, atshopTkn, & atshopLink` variables first.
+
 ```
 npm install discord.js moment ddp ddp-login pm2 -g
 
