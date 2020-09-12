@@ -1,8 +1,13 @@
 # atshop-replacements-discord-bot
-ATShop.io | Discord Bot to replace order ids.
+ATShop.io | Discord Bot to replace atshop.io orders.
 
 # Requirements
   - [NodeJS](https://nodejs.org/en/download/)
+
+# Usage
+  - Type the following commands into your discord server:
+   * `$get order_id`
+   * `$replace order_id amountOfReplacements`
 
 # Installation
 
